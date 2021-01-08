@@ -28,7 +28,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[B]FILME[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Chamas da Vingança[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Filme Chamas da Vingança</info>
+<info>Assista aqui o filme Chamas da Vingança </info>
 <genre>AÇÃO</genre> 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -37,7 +37,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <link>NOLINK</link>
 <thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui o filme Chamas da Vingança EM TORRENT</info>
+<info>Assista aqui o filme Chamas da Vingança </info>
 <genre>AÇÃO</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
@@ -55,6 +55,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Chamas da Vingança - 2004 - Dublado[/B][/COLOR]</title>
 <link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Jny6eIkNaKPIMBWWiNP0qJSz5ZdlDmGS/view</link>
+<thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy (Denzel Washington) é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn (Christopher Walken). Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita (Dakota Fanning), uma garota de 9 anos que é filha de um industrial (Marc Anthony). Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
+<genre>AÇÃO</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]SERVER 1[/B][COLOR yellow] ->[/COLOR][COLOR red][B] Chamas da Vingança - 2004 - Dublado[/B][/COLOR]</title>
+
+<link>LINKUNIVERSALSERVER1</link>
+
 <thumbnail>https://i.ibb.co/fCDC9Qq/chamasvinganca-icon.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Uma grande onda de sequestros varre o México, fazendo com que muitos de seus cidadãos mais ricos contratem guarda-costas para seus filhos. John Creasy (Denzel Washington) é um desmotivado ex-agente da CIA, que é levado à Cidade do México por seu amigo Rayburn (Christopher Walken). Sem emprego, ele aceita a proposta de ser guarda-costas da pequena Pita (Dakota Fanning), uma garota de 9 anos que é filha de um industrial (Marc Anthony). Incomodado com as perguntas constantes da garota, John inicialmente vê seu novo trabalho como um fardo mas, aos poucos, cria amizade com Pita e passa a ter um novo ânimo em sua vida. O sequestro de Pita desfaz esta situação, fazendo com que ele, mesmo ferido, parta para resgatá-la a qualquer custo.</info>
