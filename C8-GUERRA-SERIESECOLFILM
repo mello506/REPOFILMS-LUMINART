@@ -1,4 +1,13 @@
-<channels>
+<channels></channels>
+<channel>
+<name>[COLOR lime]..:[/COLOR][COLOR yellow]:[/COLOR][COLOR red]:[/COLOR][COLOR blue][B] DICAS DE NAVEGAÇÃO [/B][/COLOR][COLOR red]:[/COLOR][COLOR yellow]:[/COLOR][COLOR lime]:..[/COLOR]</name>
+<thumbnail>http://bit.do/iconnavegacao</thumbnail>
+<fanart>http://bit.do/fanartnavegacao</fanart>
+<info>[COLOR blue]COR AZUL - SEM LINK[/COLOR] - [COLOR lime]COR VERDE - LINK ATIVO[/COLOR]
+[COLOR red]COR VERMELHA - LINK INATIVO[/COLOR] - [COLOR gold]REPORTE LINKS OFF[/COLOR]
+NO EMAIL - luminartstudio4@gmail.com</info>
+
+<channels></channels>
 <channel>
 <name>[COLOR blue][B] COLEÇÕES DE FILME DE GUERRA E SÉRIES[/B][/COLOR]</name>
 <link>NOLINK</link>
@@ -6,8 +15,6 @@
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>AS MELHORES COLEÇÕES DE FILME DE GUERRA E SÉRIES ESTÃO AQUI</info>
 <genre>GUERRA</genre> 
-</channel>
-</channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
@@ -18,6 +25,15 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <info>Band of Brothers</info>
 <genre>GUERRA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]ASSISTA A SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] Band of Brothers[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o servidor para assistir a série Band of Brothers</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] Band of Brothers [/B][/COLOR]</title>
@@ -45,12 +61,21 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels></channels>
 <channel>
-<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Pacific - Dublado[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Pacific[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/zS4F1jb/pacific-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>The Pacific - 2010 - Dublado</info>
+<info>The Pacific</info>
 <genre>GUERRA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<item>
+<title>[B]ASSISTA A SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Pacific[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o servidor para assistir a série The Pacific</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Pacific[/B][/COLOR]</title>
@@ -84,6 +109,17 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>Série The Liberator </info>
 <genre>GUERRA</genre>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B]ASSISTA A SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] The Liberator[/B][/COLOR]</title>
+<link>NOLINK</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>http://bit.do/entrarfanart</fanart>
+<info>Escolha o servidor para assistir a série The Liberator</info>
+<genre>GUERRA</genre>  
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] The Liberator[/B][/COLOR]</title>
@@ -116,12 +152,12 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<title>[B]ASSISTA[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Naufrágio do Lacônia[/B][/COLOR]</title>
+<title>[B]ASSISTA A MINI-SÉRIE[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] O Naufrágio do Lacônia[/B][/COLOR]</title>
 <link>NOLINK</link>
-<thumbnail>ICONEDOARQUIVO</thumbnail>
+<thumbnail>ICONE</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>Assista aqui os filmes O Naufrágio do Lacônia no G DRIVE</info>
-<genre>DESENHOS</genre>  
+<info>Escolha o servidor para assistir a série O Naufrágio do Lacônia</info>
+<genre>GUERRA</genre>  
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
@@ -136,12 +172,18 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
-<name>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Naufrágio do Lacônia - 2010 - Legendado[/B][/COLOR]</name>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Naufrágio do Lacônia - 2010 - Legendado[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
+<fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
+<info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
+<genre>GUERRA</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BJQ_EvQbIqlSwAxPfmwE2bYjm16p6Qvm/view$$lsname=[B]Parte I[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Naufrágio do Lacônia [/B][/COLOR]</link>
-
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view$$lsname=[B]Parte II[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Naufrágio do Lacônia [[/B][/COLOR]</link>
-
+<item>
+<title>[B]G DRIVE[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] O Naufrágio do Lacônia - 2010 - Legendado[/B][/COLOR]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1PmOMQ9cvATHlsh329QGsAJSbHLJrhraV/view</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/z7Ybv2H5ml4OATZv9o4dgOfe67U.jpg</thumbnail>
 <fanart>https://i.pinimg.com/originals/17/c1/2f/17c12f85f1b2732d08d8a7d32e22b5da.jpg</fanart>
 <info>Seis sobreviventes relatam a verdadeira história do naufrágio do navio Lacônia em 1942.</info>
