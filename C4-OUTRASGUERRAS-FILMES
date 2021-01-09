@@ -1,10 +1,10 @@
 <channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE OUTRAS GUERRAS[/B][/COLOR]</name>
+<name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] FILMES DE OUTRAS GUERRAS[/B][/COLOR]</name>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>OS MELHORES FILMES DE OUTRAS GUERRAS EM TORRENT ESTÃO AQUI</info>
+<info>OS MELHORES FILMES DE OUTRAS GUERRAS ESTÃO AQUI</info>
 <genre>OUTRAS GUERRAS</genre> 
 </channel>
 </channels>
@@ -411,13 +411,3 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 </item>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-<channels></channels>
-<channel>
-<name>[B]ACESSE + CONTEÚDO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] PRÓXIMA PÁGINA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/REPOINFOS/master/1A4-ACESSRESTMAISCONTE%C3%9ADO</externallink>
-<thumbnail>https://i.ibb.co/HFVVkdq/Proxima.png</thumbnail>
-<fanart>http://bit.do/entrarfanart</fanart>
-<info>CLIQUE AQUI PARA MAIS CONTEÚDO </info>
-<genre>ACESSO PARA CONTRIBUINTES</genre> 
-
