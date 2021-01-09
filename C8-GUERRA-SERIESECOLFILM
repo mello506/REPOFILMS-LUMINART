@@ -1,10 +1,10 @@
 <channels>
 <channel>
-<name>[B]TORRENT[/B][COLOR yellow] ->[/COLOR][COLOR blue][B] COLEÇÕES DE FILME DE GUERRA E SÉRIES[/B][/COLOR]</name>
+<name>[COLOR blue][B] COLEÇÕES DE FILME DE GUERRA E SÉRIES[/B][/COLOR]</name>
 <link>NOLINK</link>
-<thumbnail>https://i.ibb.co/W0x0Jj3/servidortorrenti-con.png</thumbnail>
+<thumbnail>https://i.ibb.co/XWpNRSZ/sub-cat-guerra.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>AS MELHORES COLEÇÕES DE FILME DE GUERRA E SÉRIES EM TORRENT ESTÃO AQUI</info>
+<info>AS MELHORES COLEÇÕES DE FILME DE GUERRA E SÉRIES ESTÃO AQUI</info>
 <genre>GUERRA</genre> 
 </channel>
 </channels>
@@ -22,7 +22,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <item>
 <title>[B]TRAILER[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] BAND OF BROTHERS [/B][/COLOR]</title>
 <link>plugin://plugin.video.youtube/play/?video_id=1wlYPlwjGOY</link>
-<thumbnail>ICONE</thumbnail>
+<thumbnail>https://i.ibb.co/wcfgCds/bandofbrothers-fan.jpg</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
 <info>ASSISTA AO TRAILER</info>
 <genre>GUERRA</genre>  
@@ -48,7 +48,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <name>[B]SEÇÃO[/B][COLOR yellow] ->[/COLOR][COLOR lime][B] THE PACIFIC - 2010 - DUB[/B][/COLOR]</name>
 <thumbnail>https://i.ibb.co/zS4F1jb/pacific-pasta.png</thumbnail>
 <fanart>http://bit.do/entrarfanart</fanart>
-<info>THE PACIFIC - 2010 - DUB</info>
+<info>THE PACIFIC</info>
 <genre>GUERRA</genre>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
